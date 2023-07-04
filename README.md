@@ -87,7 +87,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 * Again, I was only able to achieve 73%
 
 ## Conclusion
-The deep learning model that i have developed was unable to achieve accuracy higher than 73%. To further improve the model's performance, I can consider the following steps:
+The deep learning model that I have developed was unable to achieve accuracy higher than 73%. To further improve the model's performance, I can consider the following steps:
 
 1. Adding more data:
    * Increasing the size of the training dataset can help the model learn from a larger and more diverse set of examples. This can improve the generalisation capability of the model and potentially lead to higher accuracy. Collecting additional data relevant to the classification problem could provide the model with more information to make better predictions.
