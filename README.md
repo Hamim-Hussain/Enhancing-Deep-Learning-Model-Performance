@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Enhancing Deep Learning Model Performance: Strategies and Insights
 
 <img src="images/1728953.jpg" width="1000" height="491">
 
